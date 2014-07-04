@@ -13,3 +13,7 @@ http://www.atomikos.com/Documentation/JtaProperties#Transaction_logs
 #MAC 
 ##MAC knowledge
 http://www.cnblogs.com/chijianqiang
+
+#LINUX
+##UBUNTU
+how to upgrade to a new version of ubuntu :sudo update-manager -d
