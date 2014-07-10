@@ -12,4 +12,8 @@ http://ftp.cs.pu.edu.tw/pub/eclipse/technology/epp/downloads/release/kepler/SR1/
 http://dev.mysql.com/get/Downloads/MySQL-5.6/mysql-5.6.15-osx10.7-x86_64.dmg
 * Mysqlworkbench
 http://dev.mysql.com/get/Downloads/MySQLGUITools/mysql-workbench-community-6.0.8-osx-i686.dmg
+* Nexus
+http://www.sonatype.org/downloads/nexus-latest-bundle.tar.gz
+
+
 
