@@ -18,3 +18,6 @@ http://www.cnblogs.com/chijianqiang
 #LINUX
 ##UBUNTU
 how to upgrade to a new version of ubuntu :sudo update-manager -d
+
+
+http://www.oschina.net/translate/command-line-tools-to-monitor-linux-performance
