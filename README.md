@@ -9,7 +9,8 @@ http://hi.baidu.com/sunboy_2050/item/ffab7396672895d11a49dfcc
 #JAVA
 ##JTA
 http://www.atomikos.com/Documentation/JtaProperties#Transaction_logs
-
+##Performance Tuning
+https://sites.google.com/site/javalogy/products
 #MAC 
 ##MAC knowledge
 http://www.cnblogs.com/chijianqiang
